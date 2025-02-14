@@ -2,7 +2,7 @@
 title:          "BAformer: Boundary Adaptive Transformer for Medical Image Segmentation."
 date:           2024-08-15 00:01:00 +0800
 selected:       true
-pub:            "Frontiers in Bioengineering and Biotechnology <strong>(CCF-B, BIBM)</strong>"
+pub:            "IEEE International Conference on Bioinformatics and Biomedicine <strong>(CCF-B, BIBM)</strong>"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
 # pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>'
