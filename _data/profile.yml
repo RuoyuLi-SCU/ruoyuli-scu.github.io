@@ -6,7 +6,7 @@ positions:
 - logo: /assets/images/badges/SCU.png  # Logo is optional
   name: Undergraduate student at Sichuan University
 - logo: /assets/images/badges/VIS.png  # Logo is optional
-  name: Intern at Visual Computing Lab
+  name: Intern at Visual Computing Lab, Sichuan University
 # - name: Position 2 without logo
 
 
@@ -51,7 +51,7 @@ education:
 experience:
 - name: Visual Computing Lab, Sichuan University
   logo: /assets/images/badges/VIS.png
-  position: Intern
+  position: Intern in the field of computer vision
   date: Sep. 2023 - Jun. 2025
 - name: Baidu
   logo: /assets/images/badges/BAIDU.png
