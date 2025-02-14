@@ -15,7 +15,7 @@ authors:
   - Junlong Cheng
   - Jilong Chen
   - Lei Jiang
-  - <strong>Ruoyu Li<、strong>
+  - <strong>Ruoyu Li</strong>
   - et.al
 links:
   Paper: https://ruoyuli-scu.github.io/Homepage/SEAformer.pdf
